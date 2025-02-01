@@ -1,2 +1,2 @@
-# GitHub-Curso
-Autenticação curso
+# GitHub-CUrso
+Autenticação Curso
